@@ -26,12 +26,8 @@
 </ul>
 <p><strong>Schematic:-</strong></p>
 <p><strong>&nbsp;</strong></p>
+<img src="https://github.com/Dhirajsharmain/IOT-Projects/blob/master/minor.png"></img>
 <p><strong>&nbsp;</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><u>INTRODUCTION TO NodeMCU</u></strong></p>
 <p>&nbsp;</p>
 <p>ESP8266 NodeMcu is a popular and widely used development board based on the ESP-12E WiFi Module that combines elements of easy programming with Arduino IDE (C\C++) and WiFi capability. Through the build-in programmer and CH340G USB-to-Serial chip, flashing the ESP8266 and serial output on a PC, development, and prototyping projects are done with ease. Just like Arduino boards, the ESP8266 NodeMcu has GPIO pins, voltage regulator, ADC, Micro-USB port (for flashing and serial output) &ndash; all on one board. On top of that, the ESP8266 NodeMcu has full WiFi that takes care of the WiFi communication to a server or client.</p>
