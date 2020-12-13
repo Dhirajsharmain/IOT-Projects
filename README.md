@@ -358,7 +358,11 @@
 <p>Assuming&nbsp;<strong>linearity</strong>,&nbsp; you can convert these values to a &ldquo;percent&rdquo; of water. &nbsp;Just remember, in reality, Dry is not 0% moisture and &ldquo;Water&rdquo; may not be 100% moisture, at least at the lower values. &nbsp;Still, it is a useful measurement.</p>
 <p>&nbsp;</p>
 <p>System design flow</p>
+<p><strong>Final View</strong></p>
 <p>&nbsp;</p>
+<img src="https://github.com/Dhirajsharmain/IOT-Projects/blob/master/final%20minor.png"></img>
+<p>&nbsp;</p>
+
 <p><strong>SUMMARY AND CONCLUSION</strong></p>
 <p>Plant monitoring and smart gardening system using IoT with the help of a micro-controller helps to ease the most tedious job of gardening for plant lovers who are in a time of rush. This system monitors various garden parameters and informs the user about the details of the garden through their smartphone.&nbsp; It also helps to solve many issues occurring in the existing plant watering and gardening system. It helps to save water and utility bills.&nbsp; Plant monitoring and smart gardening using&nbsp; IoT with the help of the microcontroller will bring more convenience and comfort to people&lsquo;s lives for taking care of their garden.&nbsp; Any&nbsp; Android supported device can be used to install the smart gardening system. The user can control and monitor the environment of the garden using the android application. The controller in this system&nbsp; (Raspberry&nbsp; Pi)&nbsp; provides&nbsp; an&nbsp; economic and efficient platform to implement the plant monitoring and smart gardening system using IOT [16]. The main advantage of the smart gardening system is that the user can monitor the garden using the&nbsp; internet from&nbsp; far&nbsp; distances&nbsp; during&nbsp; leisure time&nbsp; or whenever necessary.</p>
 <p><strong>FUTURE ASPECTS :-</strong></p>
