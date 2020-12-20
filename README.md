@@ -221,7 +221,7 @@
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>What is a Humidity Sensor?</strong></p>
-<p>Humidity Sensors are the low cost-sensitive electronic devices used to measure the humidity of the air. These are also known as Hygrometers. Humidity can be measured as Relative humidity, Absolute humidity, and Specific humidity. Based on the type of humidity measured by the&nbsp;<a href="https://www.elprocus.com/sensors-types-applications/">sensor</a>, these are classified as Relative Humidity sensor and Absolute Humidity sensor.</p>
+<p>Humidity Sensors are the low cost-sensitive electronic devices used to measure the humidity of the air. These are also known as Hygrometers. Humidity can be measured as Relative humidity, Absolute humidity, and Specific humidity. Based on the type of humidity measured by the&nbsp;sensor, these are classified as Relative Humidity sensor and Absolute Humidity sensor.</p>
 <p>Based on the parameters used to measure humidity, these sensors are also classified as Capacitive Humidity Sensor, Resistive Humidity Sensor, and Thermal Conductivity Humidity Sensor.</p>
 <p>Some of the parameters to consider while choosing these sensors are Accuracy, Linearity, Reliability, Repeatability, and Response time.</p>
 <p><strong>&nbsp;</strong></p>
